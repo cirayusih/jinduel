@@ -1,0 +1,10 @@
+{
+    "use_proxy": false,  
+    "poll_interval": 15,  
+    "accounts": [
+        {
+            "email": "",
+            "token": ""
+        }
+    ]
+}
